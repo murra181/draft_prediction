@@ -29,10 +29,16 @@ After all data was combined and refined we were left with just 936 players to bu
 
 ## Modeling
 
+I modeled two different sets of data. One included dummied school and position data and the other one did not to see if these would really play into accuracy of draft position.
 
+With those two sets of data i proceeded to do linear regression to test for draft number overall and random forest for the multiclass of which round. Both were refined.
 
 
 ## Conclusion
+
+There is some promise to d=predicting based on combine as these are usually the top players in college.
+
+More data is needed since this did leave out defense stats for everything except interceptions.
 
 
 
@@ -40,3 +46,10 @@ After all data was combined and refined we were left with just 936 players to bu
 
 ## Next Step
 
+Raise money to pay for the 500 dollars to obtain accurate historical college stats data.
+
+Remove combine restriction to include all 256 players that are drafted every year.
+
+Predict against AV which is approximate value that is how much impact a player has made at their position in the NFL ( of course Tom brady has the highest) 
+
+Analyze impact of team needs and how they affect the early rounds.
