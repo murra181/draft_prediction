@@ -2,7 +2,9 @@
 
 ## Overview
 
-Taking information from the top 200 players that enter the combine we will cross refrence this with high school recruiting and college career stats to predict both what pick or what round they would be picked in.
+Little kids dream of one day making the NFL. This takes years of hard work, dedication and skill. Those who hear their name called on draft day are always relieved to know it paid off. What if we could tell them exactly what to improve to increase their chance at getting drafted higher in the draft?
+
+Taking information from the top 200 players that enter the combine we will cross refrence this with college recruiting and college career stats to predict both what pick or what round they would be picked in.
 
 
 ## The Data
