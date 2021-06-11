@@ -44,6 +44,8 @@ There is some promise to d=predicting based on combine as these are usually the 
 
 More data is needed since this did leave out defense stats for everything except interceptions.
 
+I believe we could be overfitting with the data that corresponds together adding up.
+
 
 
 
